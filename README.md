@@ -1,5 +1,5 @@
 
-<h2>Welcome! <a href="https://github.com/aditya010220"> <img src="https://visitor-badge.laobi.icu/badge?page_id=aditya010220" alt="Visitors"></a></h2>
+<h2>Welcome! <a href="https://github.com/Pranjalnarain226"> <img src="https://visitor-badge.laobi.icu/badge?page_id=aditya010220" alt="Visitors"></a></h2>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E05D44&random=false&width=600&lines=Hey+there!+It's+cursedDeveloper...;Passionate+19-year-old%2C+open+source+explorer;FullStack+and+DevOps+enthusiast;Computer+Science+explorer%2C+project+builder"/> 
 
 - Undergraduate CS Engineering Freshman on a quest for learning and growth
@@ -7,14 +7,14 @@
 - Skilled in various languages/tools: Bash, JavaScript, C++ (Programming Language), TypeScript and YAML.
 - Enjoy automating tasks and casual gaming.
 - My trusty companions: Samsung Galaxy S23, HP 15s‑eq2143AU, HP Pavilion 15‑eg2035TU and iQOO Z10x.
-- Let's connect! Find me on Telegram @athreya001.
+
 
 ### ⚙️ &nbsp;cursedDeveloper's GitHub Analytics
 <p align="left">
 <a href="https://github.com/ksauraj">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=aditya010220&cc=000&tc=fff&ic=fff&bc=000&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/aditya010220">
+<a href="https://github.com/Pranjalnarain226">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya010220&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true&hide=Jupyter%20Notebook" />
 </a>
 </p>
